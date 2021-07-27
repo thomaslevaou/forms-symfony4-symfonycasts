@@ -75,4 +75,4 @@ c'est plus simple de le coder manuellement.
 Les simples codes ci-dessus permettent d'afficher un formulaire 
 à l'adresse `http://localhost:8000/admin/article/new`, qui reste pour le 
 moment assez basique en style et qu'on va améliorer au fur et à mesure
-du cours.
+du cours. 
